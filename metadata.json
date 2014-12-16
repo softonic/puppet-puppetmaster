@@ -1,0 +1,30 @@
+{
+  "name": "softonic-puppetmaster",
+  "version": "0.0.1",
+  "author": "softonic",
+  "dependencies": [
+    {
+      "name": "puppetlabs/inifile",
+      "version_requirement": "1.x"
+    },
+    {
+      "name": "puppetlabs/firewall",
+      "version_requirement": ">= 0.0.4"
+    },
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 2.2.0"
+    },
+    {
+      "name": "puppetlabs/puppetdb",
+      "version_requirement": ">= 2.2.0"
+    }
+  ],
+  "license": " ",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "ssh://git@stash.redtonic:7999/arc/puppet-puppetmaster.git",
+  "summary": "puppetmaster with autosign setup",
+  "tags": []
+}
