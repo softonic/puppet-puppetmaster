@@ -20,11 +20,11 @@
       "version_requirement": ">= 2.2.0"
     }
   ],
-  "license": " ",
+  "license": "Apache 2.0",
   "operatingsystem_support": [],
-  "project_page": "",
+  "project_page": "https://github.com/softonic/puppet-puppetmaster",
   "requirements": [],
-  "source": "ssh://git@stash.redtonic:7999/arc/puppet-puppetmaster.git",
+  "source": "https://github.com/softonic/puppet-puppetmaster",
   "summary": "puppetmaster with autosign setup",
-  "tags": []
+  "tags": ["puppetmaster"]
 }
